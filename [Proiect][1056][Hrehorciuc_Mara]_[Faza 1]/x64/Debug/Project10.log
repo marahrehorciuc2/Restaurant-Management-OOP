@@ -1,0 +1,8 @@
+﻿  FileName.cpp
+C:\Users\AndiHrehorciuc\source\repos\Project10\FileName.cpp(623,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\AndiHrehorciuc\source\repos\Project10\FileName.cpp(629,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\AndiHrehorciuc\source\repos\Project10\FileName.cpp(642,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\AndiHrehorciuc\source\repos\Project10\FileName.cpp(699,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\AndiHrehorciuc\source\repos\Project10\FileName.cpp(124): warning C4715: 'Preparat::operator-': not all control paths return a value
+C:\Users\AndiHrehorciuc\source\repos\Project10\FileName.cpp(132): warning C4715: 'Preparat::operator+': not all control paths return a value
+  Project10.vcxproj -> C:\Users\AndiHrehorciuc\source\repos\Project10\x64\Debug\Project10.exe
